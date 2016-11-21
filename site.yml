@@ -8,5 +8,5 @@
     - deluge
     - pia
     - git
-    - firewall
     - test
+    #    - firewall

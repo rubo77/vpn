@@ -20,6 +20,9 @@
 # .idea/dynamic.xml
 # .idea/uiDesigner.xml
 
+# Your own openvpn configuration
+.openvpn/
+
 # Gradle:
 # .idea/gradle.xml
 # .idea/libraries
@@ -48,4 +51,3 @@ crashlytics.properties
 crashlytics-build.properties
 ### Vagrant template
 .vagrant/
-
